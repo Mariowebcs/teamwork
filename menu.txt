@@ -1,15 +1,10 @@
-Nome del ristorante : 
-Baratie
 
-Tipo di Menu : 
-Vegano
 
-Lista delle bevande : 
--Acqua
--Fanta
--Coca cola
--Birra nastro Azzurro
--Sake di binks
--Vino della casa
--Amaro del capo
--Amaro Silano
+secondi-piatti : 
+-parmigiana di zucchine vegana
+-tofu impanato con crema allo scalogno
+-ceci cremosi in cartoccio alla mediterranea
+-hamburger vegani
+-insalata di sedano e uvetta
+-sformato vegano di verdure estive
+-piselli gialli spezzati all'etiope
