@@ -1,8 +1,8 @@
+Nome del ristorante : 
+Baratie
 
-
-
-
-
+Tipo di Menu : 
+Vegano
 
 secondi-piatti : 
 -parmigiana di zucchine vegana
