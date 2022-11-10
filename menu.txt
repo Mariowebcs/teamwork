@@ -4,6 +4,14 @@ Baratie
 Tipo di Menu : 
 Vegano
 
+Dolci:
+Brownies
+Torta noci e cioccolato
+Torta di mele
+Tortino al cioccolato
+Tiramisù 
+Delizia al limone
+
 Lista delle bevande : 
 -Acqua
 -Fanta
